@@ -1,0 +1,51 @@
+{
+  "basic":{
+    "image":"profile.png",
+    "name":"KANTH",
+    "email":"satyavanga143@gmail.com",
+    "number":"+918978251349",
+    "address":"pragati engineering college,surampalem."
+  },
+  "career":{
+    "info":"To secure a challenging position in a reputable organization to expand my learnings, knowledge, and skills."
+  },
+  "education":[
+    {
+      "institute":"pragati engineering",
+      "degree":"B.tech",
+      "passout":"2020"
+    },
+    {
+      "institute":"sasi jr college",
+      "degree":"inter",
+      "passout":"2016"
+    },
+    {
+      "institute":"sasi school",
+      "degree":"ssc",
+      "passout":"2014"
+    }
+  ],
+  "technical":[
+    {
+      "title":"programming languages",
+      "content":["c","python","java"]
+    },
+    {
+      "title":"databases",
+      "content":["Mysql"]
+    },
+    {
+      "title":"packages",
+      "content":["Ms office"]
+    }
+  ],
+  "acheivements":[
+    {
+      "info":"Nptel  elite certificate in python"
+    },
+    {
+      "info":"Nptel  elite certificate in java"
+    }
+  ]
+}
